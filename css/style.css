@@ -28,6 +28,12 @@ body {
     padding: 20px;
 }
 
+.wrapper {
+    display: flex;
+    align-items: center;
+    height: 85svh;
+}
+
 
 .profile {
     margin-inline: auto;
@@ -35,7 +41,7 @@ body {
     border-radius: 20px;
     padding: 20px;
     min-width: 324px;
-    max-width: 400px;
+    flex-basis: 400px;
 }
 
 @media (min-width: 768px) {
