@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+:root {
+    /* colors */
+    --green: hsl(75, 94%, 57%);
+    --white: hsl(0, 0%, 100%);
+    --grey-700: hsl(0, 0%, 20%);
+    --grey-800: hsl(0, 0%, 12%);
+    --grey-900: hsl(0, 0%, 8%);
+
+    /* weights */
+    --font-normal: 400;
+    --font-bold: 600;
+    --font-extrabold: 700;
+}
+
+body {
+    font-family: Inter, sans-serif;
+    font-size: 0.875em;
+}
