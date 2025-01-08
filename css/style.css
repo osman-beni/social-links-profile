@@ -24,4 +24,25 @@
 body {
     font-family: Inter, sans-serif;
     font-size: 0.875em;
+    background-color: var(--grey-900);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100svh;
+    flex-direction: column;
 }
+
+.profile {
+    margin-inline: 20px;
+    background-color: var(--grey-800);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.profile img {
+    border-radius: 50%;
+    width: 80px;
+    display: block;
+    margin: auto;
+}
+
