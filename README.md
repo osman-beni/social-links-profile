@@ -15,8 +15,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Code](https://github.com/osman-beni/social-links-profile)
+- Live Site URL: [Demo](https://osman-beni.github.io/social-links-profile/)
 
 ## My process
 
@@ -30,4 +30,4 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/osman-beni)
+- Frontend Mentor - [@osman-beni](https://www.frontendmentor.io/profile/osman-beni)
