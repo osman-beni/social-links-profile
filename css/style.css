@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(./../assets/fonts/Inter.woff) format('woff');
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -112,6 +117,12 @@ body {
     color: var(--white);
     text-align: center;
     margin-top: 16px;
+}
+
+@media (width < 382px) {
+    .attribution {
+        font-size: 12px;
+    }
 }
 
 .attribution a {
